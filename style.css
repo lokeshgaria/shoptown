@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.header{
+    background: #ffaf40;
+    display: flex;
+    justify-content: space-around;
+    padding: 22px 0;
+    font-size: 1.5rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: wheat;
+}
+
+.header img{
+    width: 14%;
+    height: 6vh;
+}
+
+.navbar ul li{
+    float: left;
+    text-decoration: none;
+    padding: 12px 38px;
+    list-style: none;
+     
+    margin: 2px 54px;
+}
+ 
+.footer{
+    background-color:#ffaf40 ;
+    text-align:center;
+}
